@@ -2,8 +2,6 @@
 
 An interactive **Tableau Retail Sales Performance Dashboard** designed to analyze sales trends, returns, customers, products, and country-level performance.
 
-![Retail Sales Performance Dashboard](dashboard.png)
-
 ---
 
 ## 📌 Project Overview
